@@ -1,5 +1,0 @@
-Message: struct {
-	text: string
-}
-
-export Message
